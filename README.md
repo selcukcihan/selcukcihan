@@ -1,4 +1,4 @@
-### Hi Visitor 👋
+## Hi Visitor 👋
 
 ![Snowy mountains.](https://pbs.twimg.com/profile_banners/134182720/1674889065/1500x500)
 
@@ -10,3 +10,8 @@
 * 🧵 listing things
 
 You can find more information about me on [selcukcihan.com](https://selcukcihan.com).
+
+## Joke of the day
+From https://github.com/selcukcihan/software-joke-generator
+----------------
+![Joke of the day](https://cihan-software-joke-generator-bucket.s3.eu-west-1.amazonaws.com/joke.svg)
