@@ -10,11 +10,26 @@ From https://github.com/selcukcihan/software-joke-generator
 
 ## Hi Visitor 👋
 
-❤️
+I enjoy
 * ✍️ solving problems
 * ⚽ 🏀 football & basketball
 * ☕ coffee & tea
 * 🏔️ hiking
-* 🧵 listing things
+* 🏊‍♂️ swimming
+
+My favorite web tech stack nowadays is
+* Typescript / Python 🐍
+* Serverless on AWS 🌩️
+* Vercel ❤️
+* DataDog 🐕‍🦺
+
+My dev environment looks like this 👇
+* MacBook M1 Pro 🤟
+* Dell U3415W
+* VS Code 🚀
+* Postman 🧪
+* https://ohmyz.sh
+* GitHub & GitHub Copilot 🙏
+* Apple Notes ✍️
 
 You can find more information about me on [selcukcihan.com](https://selcukcihan.com).
