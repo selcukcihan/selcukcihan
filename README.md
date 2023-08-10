@@ -27,6 +27,7 @@ My dev environment looks like this 👇
 * MacBook M1 Pro 🤟
 * Dell U3415W
 * VS Code 🚀
+* IntelliJ IDEA (for Java/Scala)
 * Postman 🧪
 * https://ohmyz.sh
 * GitHub & GitHub Copilot 🙏
