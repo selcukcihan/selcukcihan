@@ -10,6 +10,8 @@ From https://github.com/selcukcihan/software-joke-generator
 
 ## Hi Visitor 👋
 
+I’m comfortable taking on work in any tech stack, though Serverless, TypeScript and Python have been recurring themes in the past few years for me. For details, have a look at my [Curriculum Vitae](https://selcukcihan.com/resume/selcukcihan.pdf).
+
 I enjoy
 * ✍️ solving problems
 * ⚽ 🏀 football & basketball
@@ -33,4 +35,6 @@ My dev environment looks like this 👇
 * GitHub & GitHub Copilot 🙏
 * Apple Notes ✍️
 
-You can find more information about me on [selcukcihan.com](https://selcukcihan.com).
+You can find more information about me on [selcukcihan.com](https://selcukcihan.com) (Old version of the portfolio site is live at [selcukcihan.com/old-portfolio](https://selcukcihan.com/old-portfolio)).
+
+*Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.*
