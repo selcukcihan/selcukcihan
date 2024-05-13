@@ -35,6 +35,12 @@ My dev environment looks like this 👇
 * GitHub & GitHub Copilot 🙏
 * Apple Notes ✍️
 
+## Personal Links
+
+* 📹 https://www.youtube.com/SelcukCihanSC
+* 📚 https://books.selcukcihan.com
+* 📝 https://blog.selcukcihan.com/
+
 You can find more information about me on [selcukcihan.com](https://selcukcihan.com) (Old version of the portfolio site is live at [selcukcihan.com/old-portfolio](https://selcukcihan.com/old-portfolio)).
 
 *Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.*
