@@ -33,11 +33,13 @@ My dev environment looks like this 👇
 * GitHub & GitHub Copilot 🙏
 * Apple Notes ✍️
 
-## Personal Links
+## Misc. Links & Projects
 
 * 📹 https://www.youtube.com/SelcukCihanSC
 * 📚 https://books.selcukcihan.com
-* 📝 https://blog.selcukcihan.com/
+* 📝 https://blog.selcukcihan.com
+* 🎮 https://tetris.selcukcihan.com
+* 🏖️ https://tatil.selcukcihan.com
 
 You can find more information about me on [selcukcihan.com](https://selcukcihan.com) (Old version of the portfolio site is live at [selcukcihan.com/old-portfolio](https://selcukcihan.com/old-portfolio)).
 
