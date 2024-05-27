@@ -36,11 +36,12 @@ My dev environment looks like this 👇
 ## Misc. Links & Projects
 
 * 📹 https://www.youtube.com/SelcukCihanSC
-* 📚 https://books.selcukcihan.com
-* 📝 https://blog.selcukcihan.com
-* 🎮 https://tetris.selcukcihan.com
-* 🏖️ https://tatil.selcukcihan.com
-* 👍 https://habit.selcukcihan.com
+* 📚 https://books.selcukcihan.com (a page listing the books I've read)
+* 📝 https://blog.selcukcihan.com (my blog)
+* 🎮 https://tetris.selcukcihan.com (tetris game using reactjs)
+* 🏖️ https://tatil.selcukcihan.com (national holidays of Turkey)
+* 👍 https://habit.selcukcihan.com (habit tracker app)
+* 🖥️ https://quiz.selcukcihan.com (a quiz game for software developers)
 
 You can find more information about me on [selcukcihan.com](https://selcukcihan.com) (Old version of the portfolio site is live at [selcukcihan.com/old-portfolio](https://selcukcihan.com/old-portfolio)).
 
