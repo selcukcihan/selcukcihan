@@ -10,6 +10,11 @@ From https://github.com/selcukcihan/software-joke-generator
 
 I’m comfortable taking on work in any tech stack, though Serverless, TypeScript and Python have been recurring themes in the past few years for me. For details, have a look at my [Curriculum Vitae](https://selcukcihan.com/resume/selcukcihan.pdf).
 
+## Hire Me As a Contractor
+
+* https://www.toptal.com/resume/selcuk-cihan
+* https://www.upwork.com/freelancers/~01852fc4c9119af2d7
+
 I enjoy
 * ✍️ solving problems
 * ⚽ 🏀 football & basketball
