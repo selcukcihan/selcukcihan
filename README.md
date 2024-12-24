@@ -42,6 +42,7 @@ My dev environment looks like this 👇
 
 * 📹 https://www.youtube.com/SelcukCihanSC
 * 📚 https://books.selcukcihan.com (a page listing the books I've read)
+* 🗃️ https://archive.selcukcihan.com (a page that tags and summarizes articles I've read or intend to read)
 * 📝 https://blog.selcukcihan.com (my blog)
 * 📖 https://scihan.substack.com (YAB - yet another blog)
 * 🎮 https://tetris.selcukcihan.com (tetris game using reactjs)
