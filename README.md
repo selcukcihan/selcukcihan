@@ -25,13 +25,14 @@ I enjoy
 My favorite web tech stack nowadays is
 * Typescript / Python 🐍
 * Serverless on AWS 🌩️
-* Vercel ❤️
+* Netlify ❤️
 * DataDog 🐕‍🦺
 
 My dev environment looks like this 👇
 * MacBook M1 Pro 🤟
 * Dell U3415W
 * VS Code 🚀
+* Cursor
 * IntelliJ IDEA (for Java/Scala)
 * Postman 🧪
 * https://ohmyz.sh
