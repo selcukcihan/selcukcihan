@@ -26,6 +26,7 @@ My favorite web tech stack nowadays is
 * Typescript / Python 🐍
 * Serverless on AWS 🌩️
 * Netlify ❤️
+* Cloudflare Workers 👷
 * DataDog 🐕‍🦺
 
 My dev environment looks like this 👇
@@ -50,7 +51,7 @@ My dev environment looks like this 👇
 * 🏖️ https://tatil.selcukcihan.com (national holidays of Turkey)
 * 👍 https://habit.selcukcihan.com (habit tracker app)
 * 🖥️ https://quiz.selcukcihan.com (a quiz game for software developers)
-* 🔗 https://share-the-link.vercel.app (lets you share banned links (eg. substack) beautifully on twitter)
+* 🔗 https://link.selcukcihan.com (lets you share banned links (eg. substack) beautifully on twitter)
 
 You can find more information about me on [selcukcihan.com](https://selcukcihan.com) (Old version of the portfolio site is live at [selcukcihan.com/old-portfolio](https://selcukcihan.com/old-portfolio)).
 
