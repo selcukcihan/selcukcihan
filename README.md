@@ -22,6 +22,8 @@ I enjoy
 * 🏔️ hiking
 * 🏊‍♂️ swimming
 
+**My favorite AI coding assistant is Codex!**
+
 My favorite web tech stack nowadays is
 * Typescript / Python 🐍
 * Serverless on AWS 🌩️
